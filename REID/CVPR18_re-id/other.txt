@@ -1,0 +1,9 @@
+CVPR2018_Group Consistent Similarity Learning via Deep CRFs for Person Re-Identification
+CVPR2018_Video Person Re-identification with Competitive Snippet-similarity Aggregation and Co-attentive Snippet Embedding
+CVPR2018_Mask-guided Contrastive Attention Model for Person Re-Identification
+CVPR2018_Attention-aware Compositional Network for Person Re-Identification
+CVPR2018_Deep Group-shuffling Random Walk for Person Re-identification
+CVPR2018_Adversarially Occluded Samples For Improving Generalization of Person Re-identification Models
+CVPR2018_Easy Identification from Better Constraints: Multi-Shot Person Re-Identification from Reference Constraints
+CVPR2018_Eliminating Background-bias for Robust Person Re-identification
+CVPR2018_End-to-End Deep Kronecker-Product Matching for Person Re-identification
