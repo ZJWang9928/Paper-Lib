@@ -1,2 +1,2 @@
 # Paper-Lib
-Paper Lib for own usage
+Paper Lib of Jonathan Wang
